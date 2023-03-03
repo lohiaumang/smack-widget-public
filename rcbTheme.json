@@ -1,0 +1,123 @@
+{
+  "colors": {
+    "primary": {
+      "50": "#e6f4fe",
+      "100": "#bed2ec",
+      "200": "#96afda",
+      "300": "#6e8dc9",
+      "400": "#f30f0e",
+      "500": "#f30f0e",
+      "600": "#f30f0e",
+      "700": "#102b5f",
+      "800": "#081d3c",
+      "900": "#010e19"
+    },
+    "secondary": {
+      "50": "#dcfdfb",
+      "100": "#b9f2ed",
+      "200": "#94e8df",
+      "300": "#6bddd3",
+      "400": "#ccba70",
+      "500": "#ccba70",
+      "600": "#ccba70",
+      "700": "#0d6860",
+      "800": "#003f3a",
+      "900": "#001814"
+    },
+    "tertiary": {
+      "50": "#e6f4fe",
+      "100": "#badcf8",
+      "200": "#8ec5f4",
+      "300": "#63aef2",
+      "400": "#4197ef",
+      "500": "#317ed6",
+      "600": "#2662a6",
+      "700": "#1a4675",
+      "800": "#0d2746",
+      "900": "#010e19"
+    }
+  },
+  "fontConfig": {
+    "Assistant": {
+      "100": {
+        "normal": "Assistant-ExtraLight",
+        "italic": "Assistant-ExtraLight"
+      },
+      "200": {
+        "normal": "Assistant-Light",
+        "italic": "Assistant-Light"
+      },
+      "300": {
+        "normal": "Assistant-Regular",
+        "italic": "Assistant-Regular"
+      },
+      "400": {
+        "normal": "Assistant-Medium",
+        "italic": "Assistant-Medium"
+      },
+      "500": {
+        "normal": "Assistant-SemiBold",
+        "italic": "Assistant-SemiBold"
+      },
+      "600": {
+        "normal": "Assistant-Bold",
+        "italic": "Assistant-Bold"
+      },
+      "700": {
+        "normal": "Assistant-ExtraBold",
+        "italic": "Assistant-ExtraBold"
+      },
+      "800": {
+        "normal": "Assistant-ExtraBold",
+        "italic": "Assistant-ExtraBold"
+      },
+      "900": {
+        "normal": "Assistant-ExtraBold",
+        "italic": "Assistant-ExtraBold"
+      }
+    },
+    "LeagueGothic": {
+      "100": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      },
+      "200": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      },
+      "300": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      },
+      "400": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      },
+      "500": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      },
+      "600": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      },
+      "700": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      },
+      "800": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      },
+      "900": {
+        "normal": "LeagueGothic",
+        "italic": "LeagueGothic"
+      }
+    }
+  },
+  "fonts": {
+    "heading": "LeagueGothic",
+    "body": "Assistant",
+    "mono": "Assistant"
+  }
+}
